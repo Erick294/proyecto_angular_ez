@@ -1,0 +1,21 @@
+:root {
+    font-size: 37px;        /* Modifica el valor de em */
+}
+
+.unidad-em1 {
+    font-size: 1em;
+
+}
+
+.unidad-em2 {
+    font-size: 2em;
+
+}
+
+.unidad-px1 {
+    font-size: 20px;
+}
+
+.unidad-px2 {
+    font-size: 40px;
+}
